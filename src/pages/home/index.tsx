@@ -47,19 +47,18 @@ export const Home = (): JSX.Element => {
               </Text>
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
-              I{" "}
+              being a {" "}
               <Text as="span" type="heading1" color="brand1">
-                love
+                developer 
               </Text>{" "}
-              creating and{" "}
+              is a journey where the next stop is the {" "}
               <Text as="span" type="heading1" color="brand1">
-                developing
+              solution 
               </Text>{" "}
-              projects
+              of a problem.
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+              Web developer on Microsoft and JavaScript stacks
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
